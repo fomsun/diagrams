@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-21T14:35:43.392Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="E4ZfLnU-fhECLuUooN_x" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-22T01:19:28.056Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="wfPHWoe5E-MIvTJmjsNU" version="14.4.9" type="github">
   <diagram id="wYlke4VY2Ae1O9RU0sDJ" name="第 1 页">
-    <mxGraphModel dx="946" dy="613" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#DAD2D8" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="913" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#DAD2D8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,33 +19,6 @@
         <mxCell id="2S8JFcUNcYetvbFkob-V-11" value="网关" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="180" width="440" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m2LOqYEdOuod_5D4nzQ--6" value="" style="group;fontColor=#143642;sketch=1;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="238" y="409" width="450" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="2S8JFcUNcYetvbFkob-V-12" value="" style="shape=link;html=1;strokeColor=#A8201A;fontColor=#143642;labelBackgroundColor=#DAD2D8;sketch=1;" parent="m2LOqYEdOuod_5D4nzQ--6" edge="1">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint as="sourcePoint" />
-            <mxPoint x="450" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2S8JFcUNcYetvbFkob-V-14" value="用户中心" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;sketch=1;" parent="m2LOqYEdOuod_5D4nzQ--6" vertex="1">
-          <mxGeometry x="30" y="50" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2S8JFcUNcYetvbFkob-V-15" value="订单中心" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;sketch=1;" parent="m2LOqYEdOuod_5D4nzQ--6" vertex="1">
-          <mxGeometry x="180" y="50" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2S8JFcUNcYetvbFkob-V-16" value="客服模块" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;sketch=1;" parent="m2LOqYEdOuod_5D4nzQ--6" vertex="1">
-          <mxGeometry x="320" y="50" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2S8JFcUNcYetvbFkob-V-17" value="商品模块" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;sketch=1;" parent="m2LOqYEdOuod_5D4nzQ--6" vertex="1">
-          <mxGeometry x="30" y="140" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2S8JFcUNcYetvbFkob-V-18" value="日志管理" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;sketch=1;" parent="m2LOqYEdOuod_5D4nzQ--6" vertex="1">
-          <mxGeometry x="180" y="140" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2S8JFcUNcYetvbFkob-V-19" value="对话模块" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;sketch=1;" parent="m2LOqYEdOuod_5D4nzQ--6" vertex="1">
-          <mxGeometry x="330" y="140" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="m2LOqYEdOuod_5D4nzQ--7" value="API聚合层" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="247" y="313" width="197" height="60" as="geometry" />
         </mxCell>
@@ -57,6 +30,30 @@
         </mxCell>
         <mxCell id="m2LOqYEdOuod_5D4nzQ--9" value="admin聚合层" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="491" y="311" width="197" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2S8JFcUNcYetvbFkob-V-12" value="" style="shape=link;html=1;strokeColor=#A8201A;fontColor=#143642;labelBackgroundColor=#DAD2D8;sketch=1;" parent="1" edge="1">
+          <mxGeometry x="238" y="409" width="100" as="geometry">
+            <mxPoint x="238" y="409" as="sourcePoint" />
+            <mxPoint x="688" y="409" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2S8JFcUNcYetvbFkob-V-14" value="用户中心" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="268" y="459" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2S8JFcUNcYetvbFkob-V-15" value="订单中心" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="418" y="459" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2S8JFcUNcYetvbFkob-V-16" value="客服模块" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="558" y="459" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2S8JFcUNcYetvbFkob-V-17" value="商品模块" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="268" y="549" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2S8JFcUNcYetvbFkob-V-18" value="日志管理" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="418" y="549" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2S8JFcUNcYetvbFkob-V-19" value="对话模块" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="568" y="549" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
